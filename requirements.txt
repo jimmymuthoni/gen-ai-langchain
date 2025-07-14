@@ -10,3 +10,4 @@ langserve
 langchain_community
 transformers
 langchain-chroma
+langchain_huggingface
