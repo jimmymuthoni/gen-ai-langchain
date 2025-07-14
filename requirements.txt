@@ -8,3 +8,4 @@ fastapi
 uvicorn
 langserve
 langchain_community
+transformers
