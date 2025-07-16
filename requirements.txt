@@ -12,3 +12,4 @@ transformers
 langchain-chroma
 langchain_huggingface
 sentence-transformers
+bs4
